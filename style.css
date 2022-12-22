@@ -3,9 +3,9 @@ html {
     font-family: 'roboto', sans-serif;
   }
   
-  /* *, *:before, *:after {
+  *, *:before, *:after {
     box-sizing: inherit;
-  } */
+  }
   
   .background {
     padding: 0 25px 25px;
